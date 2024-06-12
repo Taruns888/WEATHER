@@ -10,7 +10,6 @@ Users can search for a city to get current weather conditions including temperat
 
 ## Technologies Used
 - HTML
-- CSS
 - JavaScript
 - Bootstrap
 - OpenWeatherMap API
