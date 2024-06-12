@@ -31,7 +31,7 @@ Users can search for a city to get current weather conditions including temperat
 2. Enter the name of a city in the search bar.
 3. Press the "Search" button to retrieve real-time weather information.
 
-4. ## Contributing
+## Contributing
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature`).
